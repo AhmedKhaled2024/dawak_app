@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581180243690",
+    "project_id": "dawak-app",
+    "storage_bucket": "dawak-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581180243690:android:6281040cd7b18dbb682193",
+        "android_client_info": {
+          "package_name": "com.example.dawak_24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIuxzsnUMdvd2Vn4VKFAD0bUiDwNjd-iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
